@@ -93,13 +93,13 @@ streamlit run streamlit_app.py
 #### （1）数据收集
 
 <center>
-<img src="https://s2.loli.net/2024/08/16/CucUQ9hWbgy2vXZ.png" alt="数据收集" width="600"/>
+<img src="https://s2.loli.net/2024/08/16/mbK1BqN63Osnx4Q.png" alt="数据总结" width="600"/>
 </center>
 
 #### （2）数据总结
 
 <center>
-<img src="https://s2.loli.net/2024/08/16/mbK1BqN63Osnx4Q.png" alt="数据总结" width="600"/>
+<img src="https://s2.loli.net/2024/08/16/CucUQ9hWbgy2vXZ.png" alt="数据收集" width="600"/>
 </center>
 
 **不足：目前数据收集无法归纳群聊名和用户名，所以数据总结模型无法总结特定群或者用户的数据。**
