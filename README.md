@@ -21,7 +21,10 @@
 3. 任何个人、团队和企业，无论以何种方式使用该项目、对何对象提供服务，所产生的一切后果，本项目均不承担任何责任。
 
 ##工作流程
-(https://s2.loli.net/2024/08/16/92CJtiqlnAmFuRf.png)
+<center>
+<img src="https://s2.loli.net/2024/08/16/92CJtiqlnAmFuRf.png" alt="数据收集" width="600"/>
+</center>
+
 ## 一、准备
 
 1. **FastGPT 账号注册**  
