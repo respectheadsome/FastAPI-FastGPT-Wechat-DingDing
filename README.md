@@ -22,7 +22,7 @@
 
 ##工作流程
 <center>
-<img src="https://s2.loli.net/2024/08/16/92CJtiqlnAmFuRf.png" alt="数据收集" width="600"/>
+<img src="https://s2.loli.net/2024/08/16/92CJtiqlnAmFuRf.png" alt="" width="600"/>
 </center>
 
 ## 一、准备
